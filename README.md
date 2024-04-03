@@ -1,1 +1,1 @@
-This is a custom translation pulign
+This is a custom translation plugin
